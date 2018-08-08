@@ -1,0 +1,11 @@
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\bin\Debug\TestRabbitMQ.exe.config
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\bin\Debug\TestRabbitMQ.exe
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\bin\Debug\TestRabbitMQ.pdb
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\bin\Debug\RabbitMQ.Client.dll
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\bin\Debug\RabbitMQ.Client.xml
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\obj\Debug\TestRabbitMQ.csprojResolveAssemblyReference.cache
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\obj\Debug\TestRabbitMQ.Form1.resources
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\obj\Debug\TestRabbitMQ.Properties.Resources.resources
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\obj\Debug\TestRabbitMQ.csproj.GenerateResource.Cache
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\obj\Debug\TestRabbitMQ.exe
+G:\jszx\PACK\TestRabbitMQ\TestRabbitMQ\obj\Debug\TestRabbitMQ.pdb
